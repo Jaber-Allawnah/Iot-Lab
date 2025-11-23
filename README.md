@@ -26,7 +26,7 @@
 
 --------------------------------------------
 
-<img width="857" height="80" alt="image" src="https://github.com/user-attachments/assets/11a9e637-c30f-4547-8078-584bac1a1063" />
+<img width="945" height="229" alt="image" src="https://github.com/user-attachments/assets/26f06372-9c23-4918-aa5f-b562ea743335" />
 
 -Humidty send and recived through server
 
@@ -35,7 +35,7 @@
 <img width="742" height="157" alt="image" src="https://github.com/user-attachments/assets/3a75b33f-ac5c-483f-820c-2b3f7ffe0d82" />
 <img width="742" height="157" alt="image" src="https://github.com/user-attachments/assets/c34a002f-9a5f-400d-a0eb-b959a43cec96" />
 
--People count Subscribder setup
+-People count subbscriber setup
 
 --------------------------------------------
 
