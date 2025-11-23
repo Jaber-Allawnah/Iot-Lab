@@ -32,10 +32,10 @@
 
 --------------------------------------------
 
-<img width="742" height="157" alt="image" src="https://github.com/user-attachments/assets/3a75b33f-ac5c-483f-820c-2b3f7ffe0d82" />
+<img width="851" height="71" alt="image" src="https://github.com/user-attachments/assets/5e94bf03-328d-46e6-affe-9204de809437" />
 <img width="742" height="157" alt="image" src="https://github.com/user-attachments/assets/c34a002f-9a5f-400d-a0eb-b959a43cec96" />
 
--People count subbscriber setup
+-People count subscriber setup
 
 --------------------------------------------
 
