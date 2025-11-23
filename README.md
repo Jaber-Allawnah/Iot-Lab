@@ -54,7 +54,7 @@
 <img width="854" height="75" alt="image" src="https://github.com/user-attachments/assets/eaaad7d5-fcb8-419d-87af-033c7d579bd7" />
 <img width="731" height="118" alt="image" src="https://github.com/user-attachments/assets/43804c1f-8fbf-454d-b236-6ae7f0fb4123" />
 
--Tempreture Subscribder setup
+-Tempreture subscriber setup
 
 --------------------------------------------
 
